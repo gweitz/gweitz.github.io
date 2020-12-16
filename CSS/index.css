@@ -1,0 +1,35 @@
+* {
+    font-family: "Quicksand", sans-serif;
+  }
+
+  .mammals {
+    color: red;
+    font-weight: bold;
+    padding: 0 30px 0 30px;
+  }
+
+  .birds {
+    color: blue;
+    text-style: italic;
+    margin-top: 30px;
+    padding-bottom: 40px;
+  }
+
+  .fish {
+    color: orange;
+    text-style: italic;
+    padding: 30px;
+    margin-top: 40px;
+  }
+
+  .list-one {
+      background-color: lime;
+  }
+
+  .important {
+      color: darkblue
+  }
+
+  .non-important {
+      color: pink;
+  }
