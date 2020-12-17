@@ -10,7 +10,7 @@
 
   .birds {
     color: blue;
-    text-style: italic;
+    font-style: italic;
     margin-top: 30px;
     padding-bottom: 40px;
   }
